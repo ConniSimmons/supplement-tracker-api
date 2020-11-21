@@ -1,5 +1,5 @@
 {
-  "name": "supsapi",
+  "name": "suppsapi",
   "version": "0.1.0",
   "description": "API for supplement tracker",
   "main": "index.js",
@@ -9,6 +9,8 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.15",
     "nodemon": "^2.0.6",
     "npm": "^6.14.9"
   },
